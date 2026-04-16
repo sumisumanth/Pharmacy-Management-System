@@ -1,0 +1,26 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Java
+target/
+*.class
+*.jar
+
+# Eclipse (IMPORTANT)
+.metadata/
+
+# Logs
+*.log
+
+# Uploads (your images)
+uploads/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
